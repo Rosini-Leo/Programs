@@ -1,4 +1,0 @@
-In this folder there are evaluation exercises
-that have been carried out by me, so they could
-be unsafe or incorrect, please make a correct 
-use of the code.

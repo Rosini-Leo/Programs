@@ -1,3 +1,0 @@
-100 Mario 23.23
-200 Giulio 2123.23
-123 Cristiano 92.2
